@@ -2,7 +2,7 @@
 
 We are Coding a Discord Bot for you.
 Here comes any Informations from Bot!
-Stay frash!!!!
+Stay fresh!!!!
 
 # First Information:
 => New Commands:
